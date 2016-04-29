@@ -8,4 +8,8 @@ public class CPU implements Component{
 	public static final int n = 0x40; //Operation flag
 	public static final int h = 0x20; //Half-carry flag
 	public static final int c = 0x10; //Carry flag
+	
+	public void link() {
+		
+	}
 }

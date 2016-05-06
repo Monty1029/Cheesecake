@@ -1,4 +1,7 @@
-//Memory Bank Controller 1
+/*	Memory Bank Controller 1
+ * 
+ *	Handles bank switching in memory
+ */
 public class MBC1 {
 	
 	private int romBank = 1;
